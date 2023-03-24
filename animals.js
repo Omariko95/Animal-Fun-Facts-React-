@@ -9,6 +9,6 @@ export const animals = {
   },
   starfish: {
     image: '/images/starfish.jpg',
-    facts: ['Starfish can have up to 40 arms!', 'Starfish have no brain and no blood!', 'Starfish can regenerate their own arms!']
+    facts: ['Starfish can have up to 30 arms!', 'Starfish have no brain and no blood!', 'Starfish can regenerate their own arms!']
   }
 };
